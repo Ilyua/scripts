@@ -1,3 +1,4 @@
+#!/bin/bash
 Z=/tmp/zeros
 NOZ=/tmp/nozeros
 
