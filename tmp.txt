@@ -1,7 +1,0 @@
-/home/ilyua/f.txt
-/home/ilyua/file.txt
-/home/ilyua/1.txt
-/home/ilyua/numbers.txt
-/home/ilyua/users.txt
-/home/ilyua/bash.txt
-/home/ilyua/services.txt
